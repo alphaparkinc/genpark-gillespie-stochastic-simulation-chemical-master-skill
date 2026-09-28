@@ -1,0 +1,5 @@
+name: genpark-gillespie-stochastic-simulation-chemical-master-skill
+description: Gillespie stochastic simulation algorithm (SSA / Direct Method) for jump Markov processes and chemical kinetics
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
