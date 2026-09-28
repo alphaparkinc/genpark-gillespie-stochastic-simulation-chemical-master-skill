@@ -1,0 +1,19 @@
+{
+  "name": "genpark-gillespie-stochastic-simulation-chemical-master-skill",
+  "version": "1.0.0",
+  "description": "Gillespie stochastic simulation algorithm (SSA / Direct Method) for jump Markov processes and chemical kinetics",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "gillespie-algorithm",
+    "stochastic-simulation",
+    "chemical-kinetics",
+    "master-equation",
+    "markov-jump-process",
+    "systems-biology",
+    "python-standard-library",
+    "agent-skills",
+    "discrete-events",
+    "exponential-waiting-time"
+  ]
+}
